@@ -805,7 +805,7 @@
 			"desc": [
 				"A few new ways to interact with the items in your inventory have been added.",
 				"*While holding an item in your cursor (that isn't a Shulker Box), you can right click on top of a non-full Shulker Box to add the item to it. Alternatively, you can also right click the shulker box on the item.",
-				"*Right clicking an armor item in an inventory will swap it for whatever armor you're currently holding.",
+				"*Right clicking an armor item in an inventory will swap it for whatever armor you're currently wearing.",
 				"*Items can now be right clicked onto a Lava Bucket to destroy them forever. Shulker Boxes and items that are immune to fire (eg. Netherite) can not be destroyed this way."
 			]
 		},
@@ -911,7 +911,7 @@
 			"image": "forgotten.jpg",
 			"added": "1.16.4",
             "desc": [
-                "Forgotten are new rare skeleton variants that spawn deep underground and in complete darkness, randomly replacing normal skeleton spawns. These are forgotten hosts of old explorers, making them apt at combat with both a bow and a sword, which always come randomly enchanted.",
+                "Forgotten are new rare skeleton variants that spawn deep underground and in complete darkness, randomly replacing normal skeleton spawns. These are forgotten ghosts of old explorers, making them apt at combat with both a bow and a sword, which always come randomly enchanted.",
                 "Their bows are tipped with Blindness arrows, and when you're blinded, they'll charge at you with their sword, switching back to the bow once the effect ends. On death, they'll drop their hat.",
                 "Wearing an Explorer's Hat, aside from making you look super fashionable, increases your maximum reach distance by 2 blocks, and also improves your luck while fishing.",
                 "Note: Prior to 1.18, Forgotten did not require complete darkness to spawn."
